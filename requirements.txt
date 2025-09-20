@@ -1,0 +1,14 @@
+
+---
+
+### `requirements.txt`
+```txt
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+guardrails-ai
+faiss-cpu
+transformers
+torch
+prometheus-client
