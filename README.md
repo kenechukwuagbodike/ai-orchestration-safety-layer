@@ -56,3 +56,6 @@ pip install -r requirements.txt
 
 # run service
 uvicorn app.main:app --reload
+
+
+Done

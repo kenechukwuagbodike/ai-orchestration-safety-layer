@@ -1,14 +1,10 @@
-
----
-
-### `requirements.txt`
-```txt
 fastapi
 uvicorn[standard]
-pydantic
+pydantic==2.11.2
 langchain
 guardrails-ai
 faiss-cpu
 transformers
 torch
 prometheus-client
+lxml==6.0.1
