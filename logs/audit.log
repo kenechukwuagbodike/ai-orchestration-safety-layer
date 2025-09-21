@@ -1,1 +1,53 @@
 {"timestamp": 1758485184.793106, "user": "kene", "prompt": "I want to hack the system", "status": "blocked", "reason": "Blocked due to forbidden term: 'hack'"}
+{"timestamp": 1758485412.6134758, "user": "kene", "prompt": "I want to kill the system", "status": "blocked", "reason": "Blocked due to forbidden term: 'kill'"}
+{"timestamp": 1758485576.6435513, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758488814.1353457, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758488828.494616, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758488935.4534516, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758488935.4625072, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489293.7818484, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489293.7868295, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489296.0519736, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489296.060932, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489297.827712, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489297.8349793, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489299.199306, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489299.2039192, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489301.0183642, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489301.0290177, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489313.7936144, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489315.945215, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489317.0366323, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489318.3688884, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489319.4128265, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489844.1675816, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489844.965368, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489845.6694958, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489846.8440845, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489847.4405935, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489848.1469612, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489848.8481545, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489849.52169, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489850.2139666, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489850.8406, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489851.4463847, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489852.3518205, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489853.6323552, "user": "kene", "prompt": "Hello AI", "status": "received", "reason": ""}
+{"timestamp": 1758489882.3326306, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489882.344386, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489883.6754239, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489883.6814046, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489884.5061457, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489884.508718, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489885.285067, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489885.2954278, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489886.3378773, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489886.3467155, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489887.2599955, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489887.265388, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489888.0820343, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489888.08999, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489888.8436394, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489888.8538163, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}
+{"timestamp": 1758489889.5977504, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "received", "reason": ""}
+{"timestamp": 1758489889.6041436, "user": "kene", "prompt": "Hello AI, I have a bomb", "status": "blocked", "reason": "Blocked due to forbidden term: 'bomb'"}

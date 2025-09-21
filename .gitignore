@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ---- Virtual Environments ----
+.env
+.venv
+venv/
+ENV/
+
+# ---- Logs ----
+logs/*
+!logs/.gitkeep
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Docker ----
+*.pid
+*.seed
+*.bak
+*.log
