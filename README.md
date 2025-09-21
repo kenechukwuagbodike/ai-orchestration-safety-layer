@@ -43,6 +43,7 @@ LLMs generate unfiltered, unpredictable outputs. Enterprises lack visibility and
 - Monitoring: Prometheus, Grafana
 - Governance: ADRs, C4 diagrams
 
+
 ---
 
 ## 🚀 Getting Started
@@ -59,3 +60,15 @@ uvicorn app.main:app --reload
 
 
 Done
+
+## 📸 Monitoring Dashboard
+
+Real-time observability with Prometheus + Grafana:
+
+![Grafana Dashboard](docs/grafana-dashboard.png)
+
+Panels include:
+- Total Requests (Stat)
+- Blocked Requests (Stat)
+- Blocked Requests % (Gauge)
+- Request Rate (per sec) (Time series)

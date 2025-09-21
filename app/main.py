@@ -34,6 +34,7 @@ async def root():
 @app.post("/v1/query")
 async def query(q: Query, x_api_key: str = Header(None)):
     REQUESTS_TOTAL.inc() # Increment request count
+    write_audit_log(q.user_id, q.prompt, "received") # Log received request
     
     # Check API Key
     if x_api_key != API_KEY:
