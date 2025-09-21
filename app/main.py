@@ -2,6 +2,9 @@ import os
 from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel
 
+# Import our moderation logic
+from app.moderation import is_safe
+
 # Initialize app
 app = FastAPI(
     title="AI Orchestration & Safety Layer",
@@ -25,13 +28,23 @@ async def root():
 # Core Orchestration Endpoint
 @app.post("/v1/query")
 async def query(q: Query, x_api_key: str = Header(None)):
-    # Auth check
+    # Check API Key
     if x_api_key != API_KEY:
         raise HTTPException(status_code=401, detail="Invalid API Key")
     
-    #For now, just echo back the prompt
+    # Run Moderation Check
+    safe, reason = is_safe(q.prompt)
+    if not safe:
+        return {
+            "status": "blocked",
+            "user_id": q.user_id,
+            "reason": reason
+        }
+        
+    # If safe, return echo response (placeholder for actual orchestration logic)
     return {
         "status": "ok",
-        "user": q.user_id,
+        "user_id": q.user_id,
         "response": f"Echo: {q.prompt}"
     }
+    
